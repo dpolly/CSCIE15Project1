@@ -1,0 +1,72 @@
+/* Denise Polly Term Project CSCIE12 */
+html, body, div, h1, h2, h3, footer{
+	background: #D2B48C;
+	border: 0;
+	color: #8B4513;
+	font: inherited;
+	font-size: 100%;	
+	margin: 0;
+	padding: 0;
+	vertical-align: baseline;
+}
+
+body{
+	font-family: "Arial Narrow", Arial, "sans serif"; 
+	padding: 10%;
+	padding-top: 1%;
+}
+
+header{
+	box-shadow: 5px  15px  18px  #FFF8DC;
+	color: #CC3300;
+	font-family: "Arial Narrow",Helvetica, sans-serif;
+	font-size:200%;
+	font-variant: small-caps;
+	margin-bottom: 40px;
+	padding-top: 25px;
+	text-align: center;
+}
+
+.headerinfo{
+
+}
+
+#img{
+	text-align: center;
+}
+
+.section{
+	border-top: #FFFFFF;
+	border-style:solid;
+	font-size: 125%;
+	margin-right: 1%;
+	margin-left: 1%;
+	padding: 1%;
+	padding-bottom: 2%;
+	text-align: left;
+}
+
+.text{
+	border-bottom: #FFFFFF;
+	color: #8B4513;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	margin-right: 5%;
+	margin-left: 5%;
+}
+
+
+footer{
+	background: #FFFFFF;
+	border-bottom: #FFFFFF;
+	border-top: #FFFFFF;
+	border-style: solid;
+	color: #FFFFFF;
+	font-family: "Arial Narrow",Helvetica, sans-serif;
+	font-variant: small-caps;
+	margin-top: 40px;
+	margin-left:10px;
+	margin-right:10px;
+	padding: .1%;
+	text-align: center;
+}
+
