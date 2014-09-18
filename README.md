@@ -1,7 +1,6 @@
-# Project One-Portfolio Page
-
+# Project One
 ## Live URL
-[id]:http://p1.dpolly.me> "Project 1"
+<http://p1.dpolly.me/>
 
 ##Author 
 Denise M Polly
@@ -13,6 +12,6 @@ A portfolio page for tracking projects in CSCIE 15 Dynamic Web Applications Cour
 None for this project
 
 ## Details for teaching team
+Github:
 
-
-### Outside code
+## Outside code
