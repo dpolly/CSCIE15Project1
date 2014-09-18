@@ -9,12 +9,12 @@
 		<header> 
 		<?php include("includes/header.php"); ?>
 		</header> 
-		<p id="img"><img alt="Fishing Rainy Lake" src="images/fishing.png"/></p>
+		<div id="picture"> <img class="img" src="images/fishing.png" alt="Fishing at Rainy Lake" width="258" height="387"></div>
 		<h2 class="section"> Project Listing</h2>
 			<ul class="text">
-				<li><a href="Project2/index.php" title="Project 2"> Project 2 </a></li>
-				<li><a href="Project3/index.php" title="Project 2"> Project 3 </a></li>
-				<li><a href="Project4/index.php" title="Project 2"> Project 4 </a></li>
+				<li><a href="p2.dpolly.me" title="Project 2"> Project 2 </a></li>
+				<li><a href="p3.dpolly.me" title="Project 3"> Project 3 </a></li>
+				<li><a href="p4.dpolly.me" title="Project 4"> Project 4 </a></li>
 			</ul>
 		<h2 class="section"> Questions and Answers</h2>
 			<div class="text"> 
