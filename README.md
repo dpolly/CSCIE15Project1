@@ -1,5 +1,18 @@
-Live Site: http://p1.dpolly.me
-Project Description: Creation of portfolio page for CSCIE 15 Dynamic Web Applications
-Demo: No Demo needed for project one. 
-Notes or Comments: Having issues with picture displaying on public site, shows locally. 
-References: No references for this project. 
+# Project One-Portfolio Page
+
+## Live URL
+[id]:http://p1.dpolly.me> "Project 1"
+
+##Author 
+Denise M Polly
+
+## Description
+A portfolio page for tracking projects in CSCIE 15 Dynamic Web Applications Course
+
+## Demo
+None for this project
+
+## Details for teaching team
+
+
+### Outside code
