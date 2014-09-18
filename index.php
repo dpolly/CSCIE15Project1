@@ -9,20 +9,20 @@
 		<header> 
 		<?php include("includes/header.php"); ?>
 		</header> 
-		<div id="picture"> <img class="img" src="images/fishing.png" alt="Fishing at Rainy Lake" width="258" height="387"></div>
+		<div id="picture"> <img class="img" src="images/Fishing.png" alt="Fishing at Rainy Lake" width="258" height="387"></div>
 		<h2 class="section"> Project Listing</h2>
 			<div class="text">
 				<h3>Project 1</H3>
-				<a href="git@github.com:dpolly/CSCIE15Project1.git" title="git@github.com:dpolly/CSCIE15Project1.git">GitHub URL</a>
+				<a href="https://github.com/dpolly/CSCIE15Project1" title="git@github.com:dpolly/CSCIE15Project1.git">GitHub URL</a>
 				<a href="http://p1.dpolly.me" title="http://p1.dpolly.me">Live URL </a> 
 				<h3>Project 2</H3>
-				<a href="git@github.com:dpolly/CSCIE15Project2.git" title="git@github.com:dpolly/CSCIE15Project2.git">GitHub URL</a>
+				<a href="https://github.com/dpolly/CSCIE15Project2" title="git@github.com:dpolly/CSCIE15Project2.git">GitHub URL</a>
 				<a href="http://p2.dpolly.me" title="http://p2.dpolly.me">Live URL </a> 
 				<h3>Project 3</H3>
-				<a href="git@github.com:dpolly/CSCIE15Project3.git" title="git@github.com:dpolly/CSCIE15Project3.git">GitHub URL</a>
+				<a href="https://github.com/dpolly/CSCIE15Project3" title="git@github.com:dpolly/CSCIE15Project3.git">GitHub URL</a>
 				<a href="http://p3.dpolly.me" title="http://p3.dpolly.me">Live URL</a>
 				<h3>Project 4</H3>
-				<a href="git@github.com:dpolly/CSCIE15Project4.git" title="git@github.com:dpolly/CSCIE15Project4.git">GitHub URL</a>
+				<a href="https://github.com/dpolly/CSCIE15Project4" title="git@github.com:dpolly/CSCIE15Project4.git">GitHub URL</a>
 				<a href="http://p4.dpolly.me" title="http://p4.dpolly.me">Live URL</a>
 			</div>
 		<h2 class="section"> Questions and Answers</h2>
