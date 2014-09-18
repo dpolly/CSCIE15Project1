@@ -1,4 +1,4 @@
-/* Denise Polly Term Project CSCIE12 */
+/*CSCIE 15 Project 1 */
 html, body, div, h1, h2, h3, footer{
 	background: #D2B48C;
 	border: 0;
@@ -53,6 +53,9 @@ header{
 	margin-left: 5%;
 }
 
+.question{
+	font-weight: bold;
+}
 
 footer{
 	background: #FFFFFF;
