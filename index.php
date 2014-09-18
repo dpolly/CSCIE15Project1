@@ -9,7 +9,7 @@
 		<header> 
 		<?php include("includes/header.php"); ?>
 		</header> 
-		<div id="picture"> <img class="img" src="includes/fishing.png" alt="Fishing at Rainy Lake" width="258" height="387"></div>
+		<div id="picture"> <img class="img" src="images/fishing.png" alt="Fishing at Rainy Lake" width="258" height="387"></div>
 		<h2 class="section"> Project Listing</h2>
 			<div class="text">
 				<h3>Project 1</H3>
