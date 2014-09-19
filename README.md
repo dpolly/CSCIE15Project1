@@ -12,6 +12,6 @@ A portfolio page for tracking projects in CSCIE 15 Dynamic Web Applications Cour
 None for this project
 
 ## Details for teaching team
-Github:
+Looks like no password is required for Github, but let me know if something comes up.  
 
 ## Outside code
